@@ -11,6 +11,7 @@ Práctica de **clustering jerárquico aglomerativo** con scikit-learn y SciPy.
 | [`docs/diagramas.md`](docs/diagramas.md) | Código Mermaid de 8 diagramas, listo para importar en Excalidraw. |
 | [`docs/diagramas/`](docs/diagramas/) | Diagramas exportados de Excalidraw (`.excalidraw` y `.png`). |
 | [`presentacion/clustering-jerarquico.pdf`](presentacion/clustering-jerarquico.pdf) | Presentación de 17 diapositivas: idea, funcionamiento, autores, práctica y resultados. |
+| [`presentacion/clustering-jerarquico.pptx`](presentacion/clustering-jerarquico.pptx) | La misma presentación en PowerPoint, editable y con notas del orador. Usa las fuentes gratuitas [Kalam](https://fonts.google.com/specimen/Kalam), [Nunito](https://fonts.google.com/specimen/Nunito) y [Fira Code](https://fonts.google.com/specimen/Fira+Code); instálalas para verla con la estética original. |
 | [`presentacion/clustering-jerarquico.html`](presentacion/clustering-jerarquico.html) | La misma presentación en HTML, con enlaces a los documentos. Descárgala y ábrela en el navegador (necesita internet para cargar las fuentes). |
 
 ## Qué cubre el notebook
